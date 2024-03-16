@@ -1,4 +1,4 @@
-FROM arch
+FROM archlinux
 
 WORKDIR /workspace
 
